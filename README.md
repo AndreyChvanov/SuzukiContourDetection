@@ -1,6 +1,6 @@
 # SuzukiContourDetection
 
-Python implementation Suzuki contours detection algorithm and find defined object(green dino) use HSV color model for create mask
+Python implementation of Suzuki contours detection algorithm and find defined object(green dino) use HSV color model for create mask
 ## Original image
 ![Original](images/segment.jpg)
 ## Mask use HSV 
